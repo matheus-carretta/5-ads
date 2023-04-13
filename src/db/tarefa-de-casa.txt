@@ -1,9 +1,0 @@
-Criar um banco de dados '5-ads'
-
-Com as tabelas
-
-team
-id, name, local
-
-players
-id, name, goal, team_id FK
